@@ -1,0 +1,5 @@
+package random
+
+class HasAccess {
+
+}
